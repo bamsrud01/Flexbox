@@ -1,0 +1,9 @@
+1.  Introduction to Flexbox
+
+  A.  To designate an element as a flex element, set the element's display property as one of these two:
+
+      div { display: flex; }      div { display: inline-flex; }
+
+  B.  To set element height as the viewport height:
+
+      div { height: 100vh; }
