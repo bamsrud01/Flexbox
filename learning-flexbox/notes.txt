@@ -7,3 +7,9 @@
   B.  To set element height as the viewport height:
 
       div { height: 100vh; }
+
+2.  Flex Direction
+
+  A. Default direction is row: div { flex-direction: row; }
+    -Can stack vertically: column
+    -Can reverse: row-reverse, column-reverse
